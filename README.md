@@ -1,2 +1,1 @@
-# arduino_DHT11_lcd
-Displays data taken from sensor on lcd screen.
+Sensor used is DHT11, data from it is displayed on lcd.
